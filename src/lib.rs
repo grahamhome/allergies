@@ -65,5 +65,3 @@ impl Allergies {
         allergies
     }
 }
-
-fn main() {}
